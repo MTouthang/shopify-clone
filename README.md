@@ -2,7 +2,7 @@
 -----
 A webpage clone of shopify
 
-![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-06%20hrs%20%2042%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://comwithapidemo.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
+![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-10%20hrs%20%2050%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://shopify101clone.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
 
 
 ### Things Learn from the project
